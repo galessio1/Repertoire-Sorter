@@ -12,6 +12,7 @@ Output File: Specify the name of the output text file where the sorted data will
 ```python repertoire_sorter.py input_file.csv output_file.txt```
 
 Example:
+
 ```python repertoire_sorter.py authors.csv sorted_authors.txt```
 
 # Functionality
